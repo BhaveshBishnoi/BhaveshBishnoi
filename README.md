@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @BhaveshBishnoi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @BhaveshBishnoi, a Full Stack Developer passionate about building dynamic web applications.
+- 💻 Skilled in JavaScript & Python
+- 🌱 I’m currently learning ML with Python
+- 🌐 Crafting seamless experiences across Frontend & Backend
+- 🤖 Always learning and pushing the boundaries of development
+- 🚀 Let's collaborate and build something awesome!
 
-<!---
-BhaveshBishnoi/BhaveshBishnoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Blog - https://bhaveshbishnoi.com
+
