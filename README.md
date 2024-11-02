@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhaveshBishnoi, a Full Stack Developer passionate about building dynamic web applications.
-- 💻 Skilled in JavaScript & Python
+- 💻 Skilled in Java, JavaScript & Python
 - 🌱 I’m currently learning ML with Python
 - 🌐 Crafting seamless experiences across Frontend & Backend
 - 🤖 Always learning and pushing the boundaries of development
